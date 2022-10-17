@@ -1,2 +1,2 @@
 # portfolio_tahil
-https://app.stackbit.com/studio/633429f18f671c00bd9d6868/#/info/
+https://ultra-potato-429f1.stackbit.app/info/
